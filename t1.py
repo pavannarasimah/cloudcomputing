@@ -1,3 +1,3 @@
-print("HELLO WORLD")
-print("Pavan")
-print("Narasimha")
+a=int(input("Enter a number"))
+print(a)
+      
